@@ -1,1 +1,48 @@
 ### Insert Configs Below ###
+potions:
+  title: ᴘᴏᴛɪᴏɴꜱ
+  items:
+    slot_1:
+      item:
+        group: POTIONSPACK
+        item: SMALLHEALTH
+        display: 'i@feather[attribute_modifiers=map@[GENERIC_ATTACK_SPEED=li@map@[name=decoy;amount=0;operation=ADD_NUMBER;slot=any;key=mmoitems:decoy;id=5c0c3fc8-796d-3bd0-8b79-245f4b1cdd53]|];display=§fSmall
+          Health Potion;custom_data=map@[MMOITEMS_CUSTOM_NBT=string:["CODEX POTION","EXTMI_CODEX
+          POTION"];MMOITEMS_ENCHANTS=string:[];MMOITEMS_ABILITY=string:[{"Id":"SMALLHEALTH_POTION","CastMode":"RIGHT_CLICK","Modifiers":{"cooldown":5.0}}];MMOITEMS_CUSTOM_MODEL_DATA=int:116;MMOITEMS_LORE=string:["Weak
+          healing. Restores 20 health in 2 seconds"];MMOITEMS_DISPLAYED_TYPE=string:Potion;MMOITEMS_ITEM_ID=string:SMALLHEALTH;MMOITEMS_NAME=string:Small
+          Health Potion;MMOITEMS_DYNAMIC_LORE=string:["§f§x§f§0§e§1§3§0ɪᴛᴇᴍ: §7Potion","§f","§f§f
+          两 §x§f§0§e§1§3§0ᴜꜱᴀɢᴇ: §fʀɪɢʜᴛ ᴄʟɪᴄᴋ §fヅ §f§lSmallhealth Potion","§f§f ｱ§7
+          Cooldown§8: §75","§f","§fWeak healing. Restores 20 health in 2 seconds"];MMOITEMS_ITEM_TYPE=string:POTIONSPACK;HSTRY_NAME=string:{"Stat":"NAME","OGStory":[{"MMOITEMS_NAME_ñstr":"Small
+          Health Potion"}]};CODEX=string:POTION];custom_model_data=116;hides=li@ATTRIBUTES|;lore=li@§x§F§0§E§1§3§0ɪᴛᴇᴍ:
+          §7Potion||§f 两 §x§F§0§E§1§3§0ᴜꜱᴀɢᴇ: §fʀɪɢʜᴛ ᴄʟɪᴄᴋ §fヅ §f§lSmallhealth Potion|§f
+          ｱ§7 Cooldown§8: §75||§fWeak healing. Restores 20 health in 2 seconds|]'
+      buyprice: '25'
+    slot_2:
+      item:
+        group: POTIONSPACK
+        item: SMALLMANA
+        display: 'i@feather[attribute_modifiers=map@[GENERIC_ATTACK_SPEED=li@map@[name=decoy;amount=0;operation=ADD_NUMBER;slot=any;key=mmoitems:decoy;id=5c0c3fc8-796d-3bd0-8b79-245f4b1cdd53]|];display=§fSmall
+          Mana Potion;custom_data=map@[MMOITEMS_CUSTOM_NBT=string:["CODEX POTION","EXTMI_CODEX
+          POTION"];MMOITEMS_ENCHANTS=string:[];MMOITEMS_ABILITY=string:[{"Id":"SMALLMANA_POTION","CastMode":"RIGHT_CLICK","Modifiers":{"cooldown":30.0}}];MMOITEMS_CUSTOM_MODEL_DATA=int:117;MMOITEMS_LORE=string:["Weak
+          Mana Potion, restores 30 mana in 2 seconds"];MMOITEMS_DISPLAYED_TYPE=string:Potion;MMOITEMS_ITEM_ID=string:SMALLMANA;MMOITEMS_NAME=string:Small
+          Mana Potion;MMOITEMS_DYNAMIC_LORE=string:["§f§x§f§0§e§1§3§0ɪᴛᴇᴍ: §7Potion","§f","§f§f
+          两 §x§f§0§e§1§3§0ᴜꜱᴀɢᴇ: §fʀɪɢʜᴛ ᴄʟɪᴄᴋ §fヅ §f§lSmallmana Potion","§f§f ｱ§7
+          Cooldown§8: §730","§f","§fWeak Mana Potion, restores 30 mana in 2 seconds"];MMOITEMS_ITEM_TYPE=string:POTIONSPACK;HSTRY_NAME=string:{"Stat":"NAME","OGStory":[{"MMOITEMS_NAME_ñstr":"Small
+          Mana Potion"}]};CODEX=string:POTION];custom_model_data=117;hides=li@ATTRIBUTES|;lore=li@§x§F§0§E§1§3§0ɪᴛᴇᴍ:
+          §7Potion||§f 两 §x§F§0§E§1§3§0ᴜꜱᴀɢᴇ: §fʀɪɢʜᴛ ᴄʟɪᴄᴋ §fヅ §f§lSmallmana Potion|§f
+          ｱ§7 Cooldown§8: §730||§fWeak Mana Potion, restores 30 mana in 2 seconds|]'
+      buyprice: '50'
+    slot_3:
+      item:
+        group: POTIONSPACK
+        item: SPEED
+        display: 'i@feather[attribute_modifiers=map@[GENERIC_ATTACK_SPEED=li@map@[name=decoy;amount=0;operation=ADD_NUMBER;slot=any;key=mmoitems:decoy;id=5c0c3fc8-796d-3bd0-8b79-245f4b1cdd53]|];display=§fSpeed
+          5 Potion;custom_data=map@[MMOITEMS_ENCHANTS=string:[];MMOITEMS_ABILITY=string:[{"Id":"SPEED_POTION","CastMode":"RIGHT_CLICK","Modifiers":{"cooldown":60.0}}];MMOITEMS_CUSTOM_MODEL_DATA=int:106;MMOITEMS_LORE=string:["Gives
+          a speed of 5 for 60 seconds"];MMOITEMS_DISPLAYED_TYPE=string:Potion;MMOITEMS_ITEM_ID=string:SPEED;MMOITEMS_NAME=string:Speed
+          5 Potion;MMOITEMS_DYNAMIC_LORE=string:["§f§x§f§0§e§1§3§0ɪᴛᴇᴍ: §7Potion","§f","§f§f
+          两 §x§f§0§e§1§3§0ᴜꜱᴀɢᴇ: §fʀɪɢʜᴛ ᴄʟɪᴄᴋ §fヅ §f§lSpeed Potion","§f§f ｱ§7 Cooldown§8:
+          §760","§f","§fGives a speed of 5 for 60 seconds"];MMOITEMS_ITEM_TYPE=string:POTIONSPACK;HSTRY_NAME=string:{"Stat":"NAME","OGStory":[{"MMOITEMS_NAME_ñstr":"Speed
+          5 Potion"}]}];custom_model_data=106;hides=li@ATTRIBUTES|;lore=li@§x§F§0§E§1§3§0ɪᴛᴇᴍ:
+          §7Potion||§f 两 §x§F§0§E§1§3§0ᴜꜱᴀɢᴇ: §fʀɪɢʜᴛ ᴄʟɪᴄᴋ §fヅ §f§lSpeed Potion|§f
+          ｱ§7 Cooldown§8: §760||§fGives a speed of 5 for 60 seconds|]'
+      buyprice: '100'
